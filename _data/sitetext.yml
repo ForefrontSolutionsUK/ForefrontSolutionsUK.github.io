@@ -12,7 +12,7 @@
 en: &DEFAULT_EN
   header:
     title: Welcome to Forefront Solutions!
-    text: Here to help you grow your business online
+    text: Your expert digital solutions provider
     button: Tell Me More
     buttonlink: "#services"
 
